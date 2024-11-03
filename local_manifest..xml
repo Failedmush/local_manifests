@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-        <remote name="Ardia"
-        fetch="https://github.com/ardia-kun/" />
+        <remote name="Failedmush"
+        fetch="https://github.com/Failedmush/" />
 
         <project path="device/xiaomi/renoir" name="device_xiaomi_renoir" remote="Ardia" revision="Crdroid-14" />
 </manifest>
