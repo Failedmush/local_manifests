@@ -4,5 +4,5 @@
         <remote name="Failedmush"
         fetch="https://github.com/Failedmush/" />
 
-        <project path="device/xiaomi/renoir" name="device_xiaomi_renoir" remote="Failedmush" revision="Crdroid-14" />
+        <project path="device/xiaomi/renoir" name="device_xiaomi_renoir" remote="Failedmush" revision="Lineage 20" />
 </manifest>
