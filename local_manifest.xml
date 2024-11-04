@@ -6,7 +6,7 @@
   <!-- Device Common Tree -->
   <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="device" />
   <!-- Kernel -->
-  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="14-rebase" />
+  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="device" />
   <!-- Vendor -->
   <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="device" />
   <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="lineage-21" />
