@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="device" fetch="https://github.com/Maitani-Sakura" revision="lineage-21" />
+  <remote name="device" fetch="https://github.com/Failedmush" revision="lineage-21" />
   <!-- Device Tree -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="device" />
   <!-- Device Commpn Tree -->
