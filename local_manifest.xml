@@ -12,5 +12,4 @@
   <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="device" />
   <!-- Additional -->
   <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="device" />
-  <project path="packages/apps/ViPER4AndroidFX" name="android_packages_apps_ViPER4AndroidFX" remote="device" />
 </manifest>
