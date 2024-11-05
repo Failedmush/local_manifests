@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="device" fetch="https://github.com/Failedmush" revision="Lineage 21" />
+  <remote name="device" fetch="https://github.com/Failedmush" revision="lineage 21.0" />
   <!-- Device Tree -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="device" />
   <!-- Device Common Tree -->
@@ -10,9 +10,7 @@
   <!-- Vendor -->
   <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="device" />
   <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="device" />
-  <!-- Remove -->
-    <remove-project name="crdroidandroid/android_frameworks_base" />
-    <remove-project name="crdroidandroid/android_vendor_crdroid" />
+ 
   <!-- Additional -->
   <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="device" />
   <project path="vendor/xiaomi/felica" name="android_vendor_felica " remote="device" />
