@@ -2,10 +2,7 @@
 <manifest>
       <remote name="Failedmush"
             fetch="https://github.com/Faiedmush"
-            clone-depth="1" />
-
-    <remote  name="gh"
-           fetch="https://github.com"/> 
+      
   
   <!-- Tree -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote=remote="Failedmush" revision="rising-14" />
