@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-      
+      <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="lineage-21" />
+    
   
   <!-- Tree -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote=remote="Failedmush" revision="rising-14" />
