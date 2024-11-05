@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-      <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="lineage-21" />
+   <remote name="Failedmush"
+            fetch="https://github.com/Failedmush"
+            clone-depth="1" />
+
+    <remote  name="gh"
+           fetch="https://github.com"/> 
     
   
   <!-- Tree -->
