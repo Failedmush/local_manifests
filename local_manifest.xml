@@ -20,3 +20,4 @@
     <project path="frameworks/base" name="android_frameworks_base" remote="Sakura" />
     <project path="vendor/lineage" name="android_vendor_crdroid" remote="Sakura" />
     <project path="vendor/gms" name="vendor_gms" remote="Sakura-gitlab" />
+</manifest>
