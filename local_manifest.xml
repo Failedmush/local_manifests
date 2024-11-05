@@ -10,7 +10,7 @@
     
   
   <!-- Tree -->
-  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Failedmush" revision="rising-14" />
+  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Failedmush" revision="LineageOS 21" />
   <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Failedmush" revision="fourteen" />
 
   <!-- Kernel -->
@@ -18,7 +18,8 @@
   <!-- Vendor -->
   <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Failedmush" revision="fourteen" />
   <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="Failedmush" revision="fourteen" />
- 
+  <!-- Hardware -->
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Failedmush" />
   <!-- Additional -->
   <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="Failedmush" revision="fourteen" />
   <project path="vendor/xiaomi/felica" name="android_vendor_felica " remote="Failedmush" revision="fourteen" />
