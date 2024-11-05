@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="device" fetch="https://github.com/Failedmush/DerpFest" revision="14" />
+  <remote name="device" fetch="https://github.com/Failedmush" revision="14" />
   <!-- Device Tree -->
   <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="device" />
   <!-- Device Common Tree -->
