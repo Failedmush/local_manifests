@@ -6,17 +6,17 @@
     <remove-project name="crdroidandroid/android_frameworks_base" />
     <remove-project name="crdroidandroid/android_vendor_crdroid" />
     <!-- Device -->
-    <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="Failedmush" />
-    <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="Failedmush" />
+     <project fetch="https://github.com/Failedmush" name="android_device_xiaomi_renoir" remote="Failedmush" />
+     <project fetch="https://github.com/Failedmush" name="android_device_xiaomi_sm8350-common" remote="Failedmush" />
     <!-- Hardware -->
     <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="Failedmush" />
     <!-- Kernel -->
     <project fetch="https://github.com/Failedmush" name="android_kernel_xiaomi_sm8350" remote="Failedmush" />
     <!-- Vendor -->
-    <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="Failedmush" />
-    <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="Failedmush" />
+    <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_renoir" remote="Failedmush" />
+     <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_sm8350-common" remote="Failedmush" />
    <!-- Addition -->
-     <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="Failedmush" />
-    <project path="frameworks/base" name="android_frameworks_base" remote="Failedmush" />
-    <project path="vendor/lineage" name="android_vendor_crdroid" remote="Failedmush" />
+     <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_camera" remote="Failedmush" />
+     <project fetch="https://github.com/Failedmush" name="android_frameworks_base" remote="Failedmush" />
+    <project fetch="https://github.com/Failedmush" name="android_vendor_crdroid" remote="Failedmush" />
 </manifest>
