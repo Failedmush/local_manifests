@@ -14,6 +14,5 @@
   <!-- Additional -->
   <project path="vendor/xiaomi/camera" name="android_vendor_xiaomi_camera" remote="device" />
   <project path="vendor/xiaomi/felica" name="android_vendor_felica " remote="device" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="device" />
   <project path="vendor/lineage" name="android_vendor_crdroid" remote="device" />
 </manifest>
