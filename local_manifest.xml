@@ -13,5 +13,5 @@
     <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_renoir" remote="Failedmush" />
      <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_sm8350-common" remote="Failedmush" />
    <!-- Addition -->
-     <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_camera" branch="evo-14" />
+     <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_camera" branch="Evo-14" />
 </manifest>
