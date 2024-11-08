@@ -2,9 +2,6 @@
 <manifest>
     <!-- Remotes -->
     <remote name="Failedmush" fetch="https://github.com/Failedmush" revision="lineage-21" />
-    <!-- Remove -->
-    <remove-project name="crdroidandroid/android_frameworks_base" />
-    <remove-project name="crdroidandroid/android_vendor_crdroid" />
     <!-- Device -->
      <project fetch="https://github.com/Failedmush" name="android_device_xiaomi_renoir" remote="Failedmush" />
      <project fetch="https://github.com/Failedmush" name="android_device_xiaomi_sm8350-common" remote="Failedmush" />
@@ -17,6 +14,4 @@
      <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_sm8350-common" remote="Failedmush" />
    <!-- Addition -->
      <project fetch="https://github.com/Failedmush" name="android_vendor_xiaomi_camera" branch="evo-14" />
-     <project fetch="https://github.com/Failedmush" name="android_frameworks_base" Branch="crdroid-14" />
-    <project fetch="https://github.com/Failedmush" name="android_vendor_crdroid" branch="crdroid-14" />
 </manifest>
